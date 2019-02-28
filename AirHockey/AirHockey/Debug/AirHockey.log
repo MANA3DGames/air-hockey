@@ -1,0 +1,3 @@
+﻿  Vec2.cpp
+e:\game development\win32 projects\airhockey\airhockey\vec2.cpp(14): warning C4244: 'initializing': conversion from 'const LONG' to 'float', possible loss of data
+  AirHockey.vcxproj -> E:\Game Development\Win32 Projects\AirHockey\Debug\AirHockey.exe
